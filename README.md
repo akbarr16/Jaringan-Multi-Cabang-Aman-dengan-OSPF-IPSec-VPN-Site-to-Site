@@ -2,4 +2,4 @@
 
 ## Topologi Jaringan 
 
-![Topologi Jaringan]
+![Topologi Jaringan](topology.png)
