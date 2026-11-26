@@ -1,6 +1,7 @@
 # Project Jaringan Multi-Cabang
 
-## Topologi Jaringan 
+Project simulasi jaringan menggunakan
+OSPF dan IPsec VPN Site-to-Site.
 
 ![Topologi Jaringan](topology.png)
 
